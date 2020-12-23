@@ -1,0 +1,9 @@
+1.open codeigniter folder in sublime
+2.add libraries like database,session,form_validation in autoload.php
+3.add helper url in autoload file
+4.create user class controller and create function create
+5.create views list,create,edit
+6.create new model user_model
+7.add html tag in create.php
+9.download css and js file from getbootstrap website
+10.
